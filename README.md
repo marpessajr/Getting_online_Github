@@ -1,4 +1,4 @@
-# Getting_online_Github
+# Getting_Github_online
 Online tutorial
 
 These are the instructions for transferring an online GitHub repository to my computer, creating new files and commiting them.
